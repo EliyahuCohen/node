@@ -1,0 +1,38 @@
+[
+  {
+    "fname": "Lebron",
+    "lname": "Jamse",
+    "team": "Lakers",
+    "pointsPerGame": 33.3
+  },
+  {
+    "fname": "Kevin",
+    "lname": "Durant",
+    "team": "Nets",
+    "pointsPerGame": 27
+  },
+  {
+    "fname": "Stephan",
+    "lname": "Curry",
+    "team": "Warriors",
+    "pointsPerGame": 30.3
+  },
+  {
+    "fname": "Kyrie",
+    "lname": "Irving",
+    "team": "Nets",
+    "pointsPerGame": 29.5
+  },
+  {
+    "fname": "Kley",
+    "lname": "Thompson",
+    "team": "Warriors",
+    "pointsPerGame": 26
+  },
+  {
+    "fname": "Kevin",
+    "lname": "Love",
+    "team": "Cleveland",
+    "pointsPerGame": 26
+  }
+]
